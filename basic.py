@@ -1,2 +1,2 @@
 print('Hello shiva')
-print(1+3)
+print(1+6)
